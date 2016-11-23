@@ -1,2 +1,2 @@
-# yoyoPHP
-My PHP Framework for 5xpert Company - Use for Quick Development
+# Yoyo PHP
+A PHP CMS of 5xpert Team 
